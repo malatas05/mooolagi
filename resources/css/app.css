@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+    --color-meadow: #1FA76B;
+    --color-meadow-dark: #0E7A4E;
+    --color-sunshine: #FFC72C;
+    --color-sky: #3E6FF2;
+    --color-sky-light: #CFEAF7;
+    --color-bubblegum: #F2549C;
+    --color-cocoa: #A9713D;
+    --color-cocoa-dark: #6B4A28;
+    --color-cloud: #FBFEFA;
+
+    --font-display: "Fredoka", sans-serif;
+    --font-body: "Plus Jakarta Sans", sans-serif;
+}
+
+[x-cloak] {
+    display: none !important;
+}

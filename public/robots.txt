@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /produk/*/request
+
+Sitemap: http://moolagi.test/sitemap.xml
